@@ -1,6 +1,9 @@
 creating a file
 <<<<<<< HEAD
 second line
+<<<<<<< HEAD
 new line
 =======
 >>>>>>> parent of a9c7cbf... Update first
+=======
+>>>>>>> parent of c7e589d... staged
